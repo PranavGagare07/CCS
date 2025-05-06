@@ -50,4 +50,6 @@ print("C is :",C)
 
 M=pow(C,d,n)
 print("M is :",M)
+print("")
+
  
